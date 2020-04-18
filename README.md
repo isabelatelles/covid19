@@ -1,4 +1,4 @@
-# Predict COVID-19
+# Binary Classifier of COVID-19
 
 ## Dataset
 This dataset contains anonymized data from patients seen at the Hospital Israelita Albert Einstein, at São Paulo, Brazil, and who had samples collected to perform the SARS-CoV-2 RT-PCR and additional laboratory tests during a visit to the hospital.
